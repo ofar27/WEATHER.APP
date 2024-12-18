@@ -110,7 +110,9 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 Thank you for taking the time to explore my Weather App. This project showcases my ability to build interactive and visually appealing web applications. Your feedback and interest in my work are greatly appreciated!
 
-If you have any questions or would like to discuss further, feel free to reach out via [LinkedIn](#) or [Email](#).
-
+If you have any questions or would like to discuss further, feel free to reach out via :
+- **LinkedIn**: [ouissal farih](https://www.linkedin.com/in/ouissal-farih/)
+  or
+- **Email**: [ouissal.farih@gmail.com](mailto:ouissal.farih@gmail.com)
 Looking forward to connecting!
 
